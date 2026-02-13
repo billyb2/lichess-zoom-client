@@ -1,0 +1,6 @@
+Chess piece PNG assets in this folder were sourced from:
+https://github.com/oakmac/chessboardjs/tree/master/website/img/chesspieces/wikipedia
+
+Files copied:
+wP.png wN.png wB.png wR.png wQ.png wK.png
+bP.png bN.png bB.png bR.png bQ.png bK.png
