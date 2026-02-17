@@ -2,6 +2,11 @@
 
 This is a hackathon project built with the Recall API. So AI generated it hurts.
 
+Note: You'll have to add a few Zoom settings:
+- Use a gallery view
+- Hide any non video participants, turn off your video
+- Sort all pariticpants by first name
+
 **WARNING:** This is insanely expensive to run if you don't work at Recall. Recommend setting the
 
 It runs a multi-bot chess wall in a Zoom meeting:
